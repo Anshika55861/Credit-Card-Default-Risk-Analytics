@@ -1,0 +1,12 @@
+data/raw/*
+data/processed/*
+!data/**/.gitkeep
+.env
+venv/
+.venv/
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.DS_Store
+*.db
+*.sqlite

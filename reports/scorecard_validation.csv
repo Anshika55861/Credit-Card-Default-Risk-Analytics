@@ -1,0 +1,5 @@
+risk_band,n_clients,actual_default_rate_pct,avg_risk_score
+Low,15159,14.62,9.6
+Medium,10969,20.38,36.7
+High,3274,55.56,61.4
+Very High,598,61.04,83.2
