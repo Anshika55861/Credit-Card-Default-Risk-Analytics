@@ -8,7 +8,7 @@ threshold is set by hand from the EDA, which is how a risk analytics team
 typically builds a first-pass scorecard before a data science team builds
 anything on top of it.
 
-![dashboard](reports/figures/dashboard.png)
+![dashboard](reports/figures/Dashboard.png)
 
 
 ## Summary
